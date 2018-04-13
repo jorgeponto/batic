@@ -1,5 +1,11 @@
 # Braille aplicado às Tecnologias da Informação e da Comunicação
 
+São atividades a desenvolver pelo grupo:
+
+1. Criar uma tabela oficial de braille para 8 pontos;
+2. Avaliar a adequação do braille de 6 pontos no que diz respeito à sua aplicação às TIC, quer na vertente de entrada de informação quer na vertente de saída da informação nos dispositivos eletrónicos. Como referência serão usadas as tabelas do projeto LibLouis, generalizadamente utilizadas em dispositivos eletrónicos;
+3. Definir regras, de acordo com a grafia braille, sobre a implementação e a programação de aplicações para dar respostas adequadas ao braille;
+4. Avaliar e rever e a grafia informática.
 
 ## Referências
 
