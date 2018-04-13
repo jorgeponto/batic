@@ -10,4 +10,4 @@
     - [pt-pt-g2.ctb;](https://github.com/liblouis/liblouis/blob/master/tables/pt-pt-g2.ctb);
     - [pt-pt-comp8.ctb](https://github.com/liblouis/liblouis/blob/master/tables/pt-pt-comp8.ctb).
   - [Manuais LibLouis](http://liblouis.org/documentation/).
-- [BrailleBlaster](http://brailleblaster.org/download.php) - <em lang="en" xml:lang="en">is a braille transcription program developed by the American Printing House for the Blind to help transcribers provide blind students with braille textbooks on the first day of class.</em>. Tem versão para Windows e para macOS.
+- [BrailleBlaster](http://brailleblaster.org/download.php) - <em lang="en" xml:lang="en">is a braille transcription program developed by the American Printing House for the Blind to help transcribers provide blind students with braille textbooks on the first day of class</em>. Tem versão para Windows e para macOS.
