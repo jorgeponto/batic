@@ -20,3 +20,4 @@ São atividades a desenvolver pelo grupo:
 - [Imagem do Teclado Português de Portugal segundo a norma ISO/IEC 9995](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/KB_Portuguese.svg/1200px-KB_Portuguese.svg.png). 1ª linha: 33 + 2ª linha: 16 + 3ª linha: 14 + 4ª linha: 16 = 79 caracteres.
 - [sinais gráficos, símbolos matemáticos, símbolos monetários, outros sinais tipográficos, sinais diacríticos](https://pt.wikipedia.org/wiki/Apóstrofo).
 - [UNICODE: os 256 caracteres da célula braille de 8 pontos](https://unicode-table.com/en/blocks/braille-patterns/).
+- [Lista completa de caracteres para o UTF-8](https://www.fileformat.info/info/charset/UTF-8/list.htm).
