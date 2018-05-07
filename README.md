@@ -16,6 +16,7 @@ São atividades a desenvolver pelo grupo:
     - [pt-pt-g2.ctb](https://github.com/liblouis/liblouis/blob/master/tables/pt-pt-g2.ctb);
     - [pt-pt-comp8.ctb](https://github.com/liblouis/liblouis/blob/master/tables/pt-pt-comp8.ctb). Esta inclui [digits8Dots.uti](https://github.com/liblouis/liblouis/blob/master/tables/digits8Dots.uti) e a [latinLetterDef8Dots.uti](https://github.com/liblouis/liblouis/blob/master/tables/latinLetterDef8Dots.uti).
   - [Manuais LibLouis](http://liblouis.org/documentation/).
+- [Tabela braille 8 pontos francês](https://github.com/liblouis/liblouis/blob/master/tables/fr-bfu-comp8.utb).
 - [BrailleBlaster](http://brailleblaster.org/download.php) - <em lang="en" xml:lang="en">is a braille transcription program developed by the American Printing House for the Blind to help transcribers provide blind students with braille textbooks on the first day of class</em>. Tem versão para Windows e para macOS.
 - [Imagem do Teclado Português de Portugal segundo a norma ISO/IEC 9995](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/KB_Portuguese.svg/1200px-KB_Portuguese.svg.png). 1ª linha: 33 + 2ª linha: 16 + 3ª linha: 14 + 4ª linha: 16 = 79 caracteres.
 - [sinais gráficos, símbolos matemáticos, símbolos monetários, outros sinais tipográficos, sinais diacríticos](https://pt.wikipedia.org/wiki/Apóstrofo).
