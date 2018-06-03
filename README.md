@@ -24,4 +24,5 @@ São atividades a desenvolver pelo grupo:
 - [UNICODE: motor de pesquisa de caracteres](http://www.fileformat.info/info/unicode/char/search.htm).
 - [UNICODE: representação braille - os 256 caracteres da célula braille de 8 pontos](https://unicode-table.com/en/blocks/braille-patterns/).
 - UNICODE standard, version 10.0 (2017): [C0 Controls and Basic Latin](http://www.unicode.org/charts/PDF/U0000.pdf) + [C1 Controls and Latin-1 Supplement](https://www.unicode.org/charts/PDF/U0080.pdf).
+- Unicode®, versão 10.0.0. (20 junho 2017). [anúncio da versão 10 do padrão UNICODE](http://www.unicode.org/versions/Unicode10.0.0/). Total de carateres da versão 10: 136,690.
 - [Lista completa de caracteres para o UTF-8](https://www.fileformat.info/info/charset/UTF-8/list.htm).
