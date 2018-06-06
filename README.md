@@ -26,3 +26,4 @@ São atividades a desenvolver pelo grupo:
 - UNICODE standard, version 10.0 (2017): Segundo o [Europe I](https://www.unicode.org/versions/Unicode10.0.0/ch07.pdf) para o Português é necessário recorrer a [C0 Controls and Basic Latin](http://www.unicode.org/charts/PDF/U0000.pdf) + [C1 Controls and Latin-1 Supplement](https://www.unicode.org/charts/PDF/U0080.pdf).
 - Unicode®, versão 10.0.0. (20 junho 2017). [anúncio da versão 10 do padrão UNICODE](http://www.unicode.org/versions/Unicode10.0.0/). Total de carateres da versão 10: 136,690.
 - [Lista completa de caracteres para o UTF-8](https://www.fileformat.info/info/charset/UTF-8/list.htm).
+- Os franceses utilizam o código de página criado pela Microsoft CP 1252, o qual é = [ISO8859-1](https://marketing.adobe.com/resources/help/en_US/whitepapers/multibyte/multibyte_iso8859-1.html) + [superset of ISO-8859-1](https://marketing.adobe.com/resources/help/en_US/whitepapers/multibyte/multibyte_windows1252.html)
